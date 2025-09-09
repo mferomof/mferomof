@@ -12,6 +12,7 @@ Here are some of my projects. Feel free to explore my work and reach out if you 
 
 #### Books' Reviews Analysis
 *Developed a pipeline to analyze book reviews and predict future trends using **LSTM** and **RNN** models.*
+You can find it here: https://github.com/mferomof/books-reviews-analysis.git
 
 * **Technologies:** Python, TensorFlow, Keras
 
