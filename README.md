@@ -1,8 +1,6 @@
 ### Hello there 👋 I'm Fernanda!
 
-I am a curious **Data Scientist** with expertise in **large-scale data analysis, machine learning, and deep learning**.
-
-What I find most fascinating about data is its potential to tell a story. I'm a curious data scientist who enjoys deciphering complex information to find patterns and correlations that can solve real-world problems.
+As a data scientist, my work is driven by a deep curiosity about data's potential to tell a story. I specialize in large-scale data analysis, machine learning, and deep learning, and I love using these skills to reveal the hidden patterns and correlations within a dataset.
 
 ---
 
