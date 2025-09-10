@@ -16,6 +16,7 @@ You can find it here: https://github.com/mferomof/books-reviews-analysis.git
 
 #### Wildfire Prediction
 *Created a deep learning model using **VGG19** to process satellite images and predict fire risks.*
+You can find it here: https://github.com/mferomof/wildfire-prediction.git
 
 * **Technologies:** Python, Pytorch
 
